@@ -1,0 +1,41 @@
+typography_spectrum: 0.6838711542077363
+color:
+  brandStrength: 0.24845041730441153
+  lightness: 0.4543239267077297
+  saturation: 0.37114471080712974
+  rhythmicContrast: 0.7706479832995683
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+layout_spectrum: 0.6357075185514987
+author:
+  name: J
+  email: support@thegrid.io
+  url: thegrid.ai/variation
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a584ac3-9bef-478c-8066-bf7299a981b2.png
+name: variation
+navigation:
+  - name: Bass
+    id: 506fe15c-c1e6-4054-8760-9fa24bcdd32c
+    type: content
+  - name: 3 nav test
+    url: 'http://thegrid.io/variation'
+    type: external
+  - name: variation 2
+    url: 'http://thegrid.ai/variation/'
+    type: external
+title: Variation
+description: the grid.
+purpose:
+  - type: external
+    url: 'https://www.youtube.com/watch?v=GI6CfKcMhjY'
+    label: Jack Sparrow
+  - type: external
+    url: 'http://thegrid.ai/variation/eh'
+    label: eh
+content: []
+github: true
